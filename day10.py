@@ -5,7 +5,7 @@ import math
 pygame.init()
 
 screen = pygame.display.set_mode((800, 600))
-pygame.display.set_caption("Day 9")
+pygame.display.set_caption("Day 10")
 clock = pygame.time.Clock()
 
 BLACK = (0, 0, 0)
